@@ -143,4 +143,3 @@ while True:
                 except ValueError:
                     print("Число!")
             f_to_c(n)
-    print("haha")
